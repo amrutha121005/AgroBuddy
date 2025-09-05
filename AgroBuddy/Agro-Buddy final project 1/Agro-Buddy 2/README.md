@@ -104,8 +104,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-## Contact
 
-- GitHub: [ShadowAniket](https://github.com/ShadowAniket)
-- Email: aniketasawale10@gmail.com
-- Linkedin: https://www.linkedin.com/in/aniket-asawale-242612270/
